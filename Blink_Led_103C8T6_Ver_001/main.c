@@ -8,7 +8,7 @@
 #define RCC_APB2ENR   *((volatile unsigned int *)0x40021018)
 
 
-/* GPIOB_CRL: GPIOB configuration register (PB0–PB7)
+/* GPIOB_CRL: GPIOB configuration register (PB0ï¿½PB7)
    Base: 0x40010C00  
    Offset: 0x00  
    Address = 0x40010C00 + 0x00 = 0x40010C00 */
@@ -233,3 +233,7 @@ int main()
         delay();
     }
 }
+
+
+
+/////piehegfopuierhfojdslk;llojk
